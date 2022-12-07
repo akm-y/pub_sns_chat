@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/akm-y/websocket_server#readme",
   "dependencies": {
-    "express": "^4.17.0",
+    "express": "^4.18.2",
     "http": "0.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
